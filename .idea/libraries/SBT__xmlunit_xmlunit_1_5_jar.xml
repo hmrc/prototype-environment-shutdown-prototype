@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: xmlunit:xmlunit:1.5:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/xmlunit/xmlunit/xmlunit-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/xmlunit/xmlunit/xmlunit-1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

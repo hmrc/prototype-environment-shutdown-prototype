@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: net.sf.jopt-simple:jopt-simple:4.7:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/net.sf.jopt-simple/jopt-simple/jopt-simple-4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/net.sf.jopt-simple/jopt-simple/jopt-simple-4.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.7.8:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/bundles/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/jackson-datatype-jdk8-2.7.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/jackson-datatype-jdk8-2.7.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

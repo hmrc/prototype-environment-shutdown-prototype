@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="SBT: org.scala-lang:scala-library:2.11.8:jar" type="Scala">
+    <properties>
+      <compiler-classpath>
+        <root url="file://$PROJECT_DIR$/lib_managed/bundles/org.scala-lang.modules/scala-parser-combinators_2.11/scala-parser-combinators_2.11-1.0.2.jar" />
+        <root url="file://$PROJECT_DIR$/lib_managed/bundles/org.scala-lang.modules/scala-xml_2.11/scala-xml_2.11-1.0.2.jar" />
+        <root url="file://$PROJECT_DIR$/lib_managed/jars/jline/jline/jline-2.12.jar" />
+        <root url="file://$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-compiler/scala-compiler-2.11.4.jar" />
+        <root url="file://$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.11.4.jar" />
+        <root url="file://$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-reflect/scala-reflect-2.11.4.jar" />
+      </compiler-classpath>
+    </properties>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/org.scala-lang/scala-library/scala-library-2.11.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/org.scala-lang/scala-library/scala-library-2.11.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

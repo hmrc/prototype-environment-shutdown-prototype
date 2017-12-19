@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: com.typesafe.play:play-json_2.11:2.5.12:jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/jars/com.typesafe.play/play-json_2.11/play-json_2.11-2.5.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib_managed/srcs/com.typesafe.play/play-json_2.11/play-json_2.11-2.5.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
