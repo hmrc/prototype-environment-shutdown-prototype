@@ -1899,7 +1899,7 @@
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar[0m
 [0m[[0mdebug[0m] [0m	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar[0m
-[0m[[0mdebug[0m] [0m:: resolution report :: resolve 2031ms :: artifacts dl 122ms[0m
+[0m[[0mdebug[0m] [0m:: resolution report :: resolve 1879ms :: artifacts dl 66ms[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-learning-build;0.1-SNAPSHOT compile produced in /Users/joanna.pinto/Documents/hmrc/aws-learning/project/target/resolution-cache/reports/default-aws-learning-build-compile.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-learning-build;0.1-SNAPSHOT runtime produced in /Users/joanna.pinto/Documents/hmrc/aws-learning/project/target/resolution-cache/reports/default-aws-learning-build-runtime.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-learning-build;0.1-SNAPSHOT test produced in /Users/joanna.pinto/Documents/hmrc/aws-learning/project/target/resolution-cache/reports/default-aws-learning-build-test.xml[0m
@@ -1913,5 +1913,5 @@
 [0m[[0mdebug[0m] [0m	report for default#aws-learning-build;0.1-SNAPSHOT docs produced in /Users/joanna.pinto/Documents/hmrc/aws-learning/project/target/resolution-cache/reports/default-aws-learning-build-docs.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-learning-build;0.1-SNAPSHOT pom produced in /Users/joanna.pinto/Documents/hmrc/aws-learning/project/target/resolution-cache/reports/default-aws-learning-build-pom.xml[0m
 [0m[[0mdebug[0m] [0m	report for default#aws-learning-build;0.1-SNAPSHOT scala-tool produced in /Users/joanna.pinto/Documents/hmrc/aws-learning/project/target/resolution-cache/reports/default-aws-learning-build-scala-tool.xml[0m
-[0m[[0mdebug[0m] [0m	resolve done (2031ms resolve - 122ms download)[0m
+[0m[[0mdebug[0m] [0m	resolve done (1879ms resolve - 66ms download)[0m
 [0m[[0minfo[0m] [0mDone updating.[0m

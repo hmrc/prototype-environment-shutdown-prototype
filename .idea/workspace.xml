@@ -1,7 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c955834-019d-4f0d-a711-86f30f4e9ef2" name="Default" comment="" />
+    <list default="true" id="4c955834-019d-4f0d-a711-86f30f4e9ef2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/StartupHandler.scala" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_cognitoidentity_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_core_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_dynamodb_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_kinesis_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_kms_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_s3_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_sns_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_aws_java_sdk_sqs_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/SBT__com_amazonaws_jmespath_java_1_11_251_jar.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/.history" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/streams/$global/clean/$global/streams/out" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.10/output" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/.idea/modules/root.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/aws-learning-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/aws-learning-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/default/aws-learning-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/default/aws-learning-build/scala_2.10/sbt_0.13/0.1-SNAPSHOT/resolved.xml.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-compile-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-compile-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-compile.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-compile.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-docs.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-docs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-optional.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-optional.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-plugin.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-plugin.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-pom.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-provided.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-provided.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-runtime-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-runtime-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-runtime.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-runtime.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-scala-tool.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-scala-tool.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-sources.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-sources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-test-internal.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-test-internal.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-test.xml" afterPath="$PROJECT_DIR$/project/target/resolution-cache/reports/default-aws-learning-build-test.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/ShutdownHandler.scala" afterPath="$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/ShutdownHandler.scala" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -61,11 +94,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShutdownHandler.scala" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ShutdownHandler.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/ShutdownHandler.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="750">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding>
+                <element signature="e#33#74#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartupHandler.scala" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/StartupHandler.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
               <folding>
                 <element signature="e#33#74#0" expanded="true" />
               </folding>
@@ -101,10 +146,14 @@
       <find>sbt</find>
       <find>sb</find>
       <find>s</find>
+      <find>with</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -124,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/HelloTwo.scala" />
         <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/ShutdownHandler.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/StartupHandler.scala" />
       </list>
     </option>
   </component>
@@ -141,6 +191,7 @@
     <option name="width" value="1400" />
     <option name="height" value="757" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -156,8 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -222,12 +271,19 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/scala" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.lambda.demo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -505,7 +561,7 @@
     </configuration>
   </component>
   <component name="SbtLocalSettings">
-    <option name="lastUpdateTimestamp" value="1513684493931" />
+    <option name="lastUpdateTimestamp" value="1513771788150" />
     <option name="availableProjects">
       <map>
         <entry>
@@ -562,6 +618,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1400" height="757" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -572,14 +629,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26804122" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27172312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -591,6 +647,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932332" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -656,22 +713,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1065">
           <caret line="162" column="30" lean-forward="false" selection-start-line="162" selection-start-column="4" selection-end-line="162" selection-end-column="30" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250-sources.jar!/com/amazonaws/services/elasticbeanstalk/AWSElasticBeanstalk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250-sources.jar!/com/amazonaws/services/elasticbeanstalk/AWSElasticBeanstalk.java" />
     <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-core/aws-java-sdk-core-1.11.251.jar!/com/amazonaws/regions/Regions.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="42" column="26" lean-forward="false" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250.jar!/com/amazonaws/services/elasticbeanstalk/model/DescribeEnvironmentsResult.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-579">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250-sources.jar!/com/amazonaws/services/elasticbeanstalk/model/DescribeEnvironmentsResult.java" />
+    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-core/aws-java-sdk-core-1.11.251-sources.jar!/com/amazonaws/regions/Regions.java" />
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-autoscaling/aws-java-sdk-autoscaling-1.11.226.jar!/com/amazonaws/services/autoscaling/AmazonAutoScaling.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="132" column="0" lean-forward="true" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -684,18 +756,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250.jar!/com/amazonaws/services/elasticbeanstalk/model/DescribeEnvironmentsResult.class">
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-autoscaling/aws-java-sdk-autoscaling-1.11.226.jar!/com/amazonaws/services/autoscaling/model/EnterStandbyRequest.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-579">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250-sources.jar!/com/amazonaws/services/elasticbeanstalk/model/DescribeEnvironmentsResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="37" column="31" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -708,26 +772,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-core/aws-java-sdk-core-1.11.251-sources.jar!/com/amazonaws/regions/Regions.java">
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-autoscaling/aws-java-sdk-autoscaling-1.11.226.jar!/com/amazonaws/services/autoscaling/model/UpdateAutoScalingGroupRequest.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="72" column="26" lean-forward="false" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        <state relative-caret-position="267">
+          <caret line="83" column="16" lean-forward="false" selection-start-line="83" selection-start-column="16" selection-end-line="83" selection-end-column="16" />
+          <folding>
+            <element signature="e#2533#2534#0" expanded="true" />
+            <element signature="e#2587#2588#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/jars/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250.jar!/com/amazonaws/services/elasticbeanstalk/model/EnvironmentResourceDescription.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="37" column="41" lean-forward="false" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.sbt">
+    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-autoscaling/aws-java-sdk-autoscaling-1.11.226-sources.jar!/com/amazonaws/services/autoscaling/model/EnterStandbyRequest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-autoscaling/aws-java-sdk-autoscaling-1.11.226-sources.jar!/com/amazonaws/services/autoscaling/model/UpdateAutoScalingGroupRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib_managed/srcs/com.amazonaws/aws-java-sdk-elasticbeanstalk/aws-java-sdk-elasticbeanstalk-1.11.250-sources.jar!/com/amazonaws/services/elasticbeanstalk/model/EnvironmentResourceDescription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/ShutdownHandler.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="750">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#33#74#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/example/lambda/demo/StartupHandler.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="26" column="59" lean-forward="true" selection-start-line="26" selection-start-column="59" selection-end-line="26" selection-end-column="59" />
           <folding>
             <element signature="e#33#74#0" expanded="true" />
           </folding>
